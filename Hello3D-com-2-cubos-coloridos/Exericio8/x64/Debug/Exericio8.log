@@ -1,0 +1,5 @@
+﻿  glad.c
+  Origem.cpp
+C:\Users\I540122\source\repos\atividades-cg-m2\Hello3D-com-2-cubos-coloridos\Exericio8\Origem.cpp(44,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\I540122\source\repos\atividades-cg-m2\Hello3D-com-2-cubos-coloridos\Exericio8\Origem.cpp(44,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Exericio8.vcxproj -> C:\Users\I540122\source\repos\atividades-cg-m2\Hello3D-com-2-cubos-coloridos\x64\Debug\Hello3D.exe
