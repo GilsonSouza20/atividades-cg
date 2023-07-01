@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\I540122\OneDrive - SAP SE\Desktop\Gilson\Unisinos\Computação Gráfica\glfw-3.3.8\glfw-3.3.8\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(169,1): fatal  error C1189: #error:  "No Target Architecture"
