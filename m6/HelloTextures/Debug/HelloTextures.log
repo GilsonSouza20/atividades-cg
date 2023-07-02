@@ -1,0 +1,23 @@
+﻿  glad.c
+  Shader.cpp
+  stb_image.cpp
+  Bezier.cpp
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Bezier.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CatmullRom.cpp
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\CatmullRom.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Curve.cpp
+  Hermite.cpp
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Hermite.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Origem.cpp
+  Camera.cpp
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(30,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(31,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(35,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(36,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(38,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(39,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I540122\source\repos\AtividadesCG\m6\HelloTextures\Camera.cpp(89,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloTextures.vcxproj -> C:\Users\I540122\source\repos\AtividadesCG\m6\Debug\HelloTextures.exe
