@@ -1,8 +1,0 @@
-﻿  Origem.cpp
-C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\HelloTextures\Origem.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\HelloTextures\Origem.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\HelloTextures\Origem.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\HelloTextures\Origem.cpp(120,22): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\HelloTextures\Origem.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  HelloTextures.vcxproj -> C:\Users\I540122\source\repos\Final_GB\Projeto Final - GB\Debug\HelloTextures.exe
